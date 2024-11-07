@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+2 <html>
+3 <head>
+4 <meta name=” v i e w p o r t ” c o n t e n t =” width= device −width , i n i t i a l − s c a l e =1”>
+5 <t i t l e >s u c c e s s f u l l y l o g i n </ t i t l e >
+6 <l i n k r e l =” s h o r t c u t i c o n ” t y p e =” image ” h r e f =” h t t p s : / / e n c r y p t e d − tb n0 . g s t a t i c . com / images ? q= t b n :
+ANd9GcRFw4IyufHVqRiQ3jvsTTCZLDd6YbxMJIP Tw&usqp=CAU”>
+7 <s c r i p t s r c =” h t t p s : / / k i t . fontawesome . com/8359 ac44a8 . j s ” c r o s s o r i g i n =” anonymous ”></ s c r i p t >
+8 <s t y l e >
+9 . b u t t o n {
+10 background − c o l o r : #4CAF50 ;
+11 c o l o r : w h i t e ;
+12 padding : 15 px 32 px ;
+13 d i s p l a y : i n l i n e − b l o c k ;
+14 f o n t − s i z e : 15 px ;
+15 margin : 0 ;
+16 c u r s o r : p o i n t e r ;
+17 }
+18 . abc {
+19 f l o a t : r i g h t ;
+20 }
+21 u l {
+22 l i s t − s t y l e − t y p e : none ;
+23 margin : 0 ;
+24 padding : 0 ;
+25 o v e r f l o w : h i d d e n ;
+26 background − c o l o r : #333;
+27 }
+28
+29 l i {
+38
+30 f l o a t : l e f t ;
+31 }
+32
+33 l i a {
+34 d i s p l a y : b l o c k ;
+35 c o l o r : w h i t e ;
+36 t e x t − a l i g n : c e n t e r ;
+37 padding : 14 px 16 px ;
+38 t e x t − d e c o r a t i o n : none ;
+39 }
+40
+41 l i a : hover : n o t ( . a c t i v e ) {
+42 background − c o l o r :# 00 FFFF ;
+43 }
+44
+45 . a c t i v e {
+46 background − c o l o r : #9932CC;
+47 }
+48 . n a v b a r {
+49 o v e r f l o w : h i d d e n ;
+50 background − c o l o r : #333;
+51 f o n t − f a m i l y : A r i a l , H e l v e t i c a , sans − s e r i f ;
+52 }
+53
+54 . n a v b a r a {
+55 f l o a t : l e f t ;
+56 f o n t − s i z e : 16 px ;
+57 c o l o r : w h i t e ;
+58 t e x t − a l i g n : c e n t e r ;
+59 padding : 14 px 16 px ;
+60 t e x t − d e c o r a t i o n : none ;
+61 }
+62
+63 . dropdown {
+64 f l o a t : l e f t ;
+65 o v e r f l o w : h i d d e n ;
+66 }
+67
+68 . dropdown . d r o p b t n {
+69 f o n t − s i z e : 16 px ;
+70 b o r d e r : none ;
+71 o u t l i n e : none ;
+72 c o l o r : w h i t e ;
+73 padding : 14 px 16 px ;
+74 background − c o l o r : i n h e r i t ;
+75 f o n t − f a m i l y : i n h e r i t ;
+76 margin : 0 ;
+77 }
+78
+79 . n a v b a r a : hover , . dropdown : hover . d r o p b t n {
+39
+80 background − c o l o r : cyan ;
+81 }
+82
+83 . dropdown − c o n t e n t {
+84 d i s p l a y : none ;
+85 p o s i t i o n : a b s o l u t e ;
+86 background − c o l o r : w h i t e ;
+87 min− width : 160 px ;
+88 box −shadow : 0px 8px 16 px 0px rg b a ( 0 , 0 , 0 , 0 . 2 ) ;
+89 z− i n d e x : 1 ;
+90 }
+91
+92 . dropdown − c o n t e n t a {
+93 f l o a t : none ;
+94 c o l o r : b l a c k ;
+95 padding : 12 px 16 px ;
+96 t e x t − d e c o r a t i o n : none ;
+97 d i s p l a y : b l o c k ;
+98 t e x t − a l i g n : l e f t ;
+99 }
+100
+101 . dropdown − c o n t e n t a : hover {
+102 background − c o l o r : w h i t e ;
+103 }
+104
+105 . dropdown : hover . dropdown − c o n t e n t {
+106 d i s p l a y : b l o c k ;
+107 }
+108 body {
+109 margin : 0 ;
+110 f o n t − f a m i l y : A r i a l , H e l v e t i c a , sans − s e r i f ;
+111 }
+112
+113 . t o p n a v {
+114 o v e r f l o w : h i d d e n ;
+115 background − c o l o r : #333;
+116 }
+117
+118 . t o p n a v a {
+119 f l o a t : l e f t ;
+120 c o l o r : # f 2 f 2 f 2 ;
+121 t e x t − a l i g n : c e n t e r ;
+122 padding : 14 px 16 px ;
+123 t e x t − d e c o r a t i o n : none ;
+124 f o n t − s i z e : 17 px ;
+125 }
+126
+127 . t o p n a v a : hover {
+128 background − c o l o r : # ddd ;
+129 c o l o r : b l a c k ;
+40
+130 }
+131
+132 . t o p n a v a . a c t i v e {
+133 background − c o l o r : #04AA6D;
+134 c o l o r : w h i t e ;
+135 }
+136
+137 . topnav − r i g h t {
+138 f l o a t : r i g h t ;
+139 }
+140 * {
+141 box − s i z i n g : border −box
+142 }
+143 body {
+144 f o n t − f a m i l y : Verdana ,
+145 sans − s e r i f ; margin : 0 ;
+146 background − c o l o r : #FFFF66 ;
+147 }
+148 . mySlides {
+149 d i s p l a y : none ;
+150 }
+151 img {
+152 v e r t i c a l − a l i g n : middle ;
+153 border − r a d i u s : 50 px ;
+154 }
+155 . s l i d e s h o w − c o n t a i n e r {
+156 max− width : 1000 px ;
+157 p o s i t i o n : r e l a t i v e ;
+158 margin : a u t o ;
+159 }
+160 . prev , . n e x t {
+161 c u r s o r : p o i n t e r ;
+162 p o s i t i o n : a b s o l u t e ;
+163 t o p : 50%;
+164 width : a u t o ;
+165 padding : 16 px ;
+166 margin − t o p : −22px ;
+167 c o l o r : w h i t e ;
+168 f o n t − w e i g h t : bo ld ;
+169 f o n t − s i z e : 18 px ;
+170 t r a n s i t i o n : 0 . 6 s e a s e ;
+171 border − r a d i u s : 0 3px 3px 0 ;
+172 user − s e l e c t : none ;
+173 }
+174 . n e x t {
+175 r i g h t : 0 ;
+176 border − r a d i u s : 3px 0 0 3px ;
+177 }
+178 . pr ev : hover , . n e x t : hover {
+179 background − c o l o r : r gb a ( 0 , 0 , 0 , 0 . 8 ) ;
+41
+180 }
+181 . t e x t {
+182 c o l o r : # f 2 f 2 f 2 ;
+183 f o n t − s i z e : 15 px ;
+184 padding : 8px 12 px ;
+185 p o s i t i o n : a b s o l u t e ;
+186 bottom : 8px ;
+187 width : 100%;
+188 t e x t − a l i g n : c e n t e r ;
+189 }
+190 . n u m b e r t e x t {
+191 c o l o r : # f 2 f 2 f 2 ;
+192 f o n t − s i z e : 12 px ;
+193 padding : 8px 12 px ;
+194 p o s i t i o n : a b s o l u t e ;
+195 t o p : 0 ;
+196 }
+197 . d o t {
+198 c u r s o r : p o i n t e r ;
+199 h e i g h t : 15 px ;
+200 width : 15 px ;
+201 margin : 0 2px ;
+202 background − c o l o r : # bbb ;
+203 border − r a d i u s : 50%;
+204 d i s p l a y : i n l i n e − b l o c k ;
+205 t r a n s i t i o n : background − c o l o r 0 . 6 s e a s e ;
+206 }
+207 . a c t i v e , . d o t : hover {
+208 background − c o l o r : #717171;
+209 }
+210 . f a d e {
+211 a n i m a t i o n −name : f a d e ;
+212 a n i m a t i o n − d u r a t i o n : 1 . 5 s ;
+213 }
+214 @keyframes f a d e {
+215 from { o p a c i t y : . 4}
+216 t o { o p a c i t y : 1}
+217 }
+218 @media on ly s c r e e n and ( max− width : 300 px ) {
+219 . prev , . next , . t e x t {
+220 f o n t − s i z e : 11 px ;
+221 }
+222 . qwe{
+223 f l o a t : r i g h t ;
+224 }
+225 . menu , . menu u l {
+226 l i s t − s t y l e : none ;
+227 padding : 0 ;
+228 margin : 0 ;
+229 }
+42
+230 . menu {
+231 h e i g h t : 58 px ;
+232 }
+233 . menu l i {
+234 background : −moz− l i n e a r − g r a d i e n t (#292929 , #252525) ;
+235 background : −ms− l i n e a r − g r a d i e n t (#292929 , #252525) ;
+236 background : −webkit − g r a d i e n t ( l i n e a r , l e f t top , l e f t bottom , c o l o r − s t o p (0% , #292929) ,
+c o l o r − s t o p (100% , #252525) ) ;
+237 background : −webkit − l i n e a r − g r a d i e n t (#292929 , #252525) ;
+238 background : −o− l i n e a r − g r a d i e n t (#292929 , #252525) ;
+239 f i l t e r : p r o g i d : DXImageTransform . M i c r o s o f t . g r a d i e n t ( s t a r t C o l o r s t r = ’ #292929 ’ , e n d C o l o r s t r
+= ’ #252525 ’ ) ;
+240 −ms− f i l t e r : ” p r o g i d : DXImageTransform . M i c r o s o f t . g r a d i e n t ( s t a r t C o l o r s t r = ’#292929 ’ ,
+e n d C o l o r s t r = ’#252525 ’) ” ;
+241 background : l i n e a r − g r a d i e n t (#292929 , #252525) ;
+242 border − bottom : 2px s o l i d #181818;
+243 border − t o p : 2px s o l i d #303030;
+244 min− width : 700 px ;
+245 }
+246 . menu > l i {
+247 d i s p l a y : b l o c k ;
+248 f l o a t : l e f t ;
+249 p o s i t i o n : r e l a t i v e ;
+250 }
+251 . menu > l i : f i r s t − c h i l d {
+252 border − r a d i u s : 5px 0 0 ;
+253 }
+254 . menu a {
+255 border − l e f t : 3px s o l i d r gb a ( 0 , 0 , 0 , 0) ;
+256 c o l o r : #808080;
+257 d i s p l a y : b l o c k ;
+258 f o n t − f a m i l y : ’ Lucida Console ’ ;
+259 f o n t − s i z e : 18 px ;
+260 l i n e − h e i g h t : 54 px ;
+261 padding : 0 25 px ;
+262 t e x t − d e c o r a t i o n : none ;
+263 t e x t − t r a n s f o r m : u p p e r c a s e ;
+264 }
+265 . menu l i : hover {
+266 background − c o l o r : #1 c1c1c ;
+267 background : −moz− l i n e a r − g r a d i e n t (#1 c1c1c , #1 b1b1b ) ;
+268 background : −ms− l i n e a r − g r a d i e n t (#1 c1c1c , #1 b1b1b ) ;
+269 background : −webkit − g r a d i e n t ( l i n e a r , l e f t top , l e f t bottom , c o l o r − s t o p (0% , #1 c1c1c ) ,
+c o l o r − s t o p (100% , #1 b1b1b ) ) ;
+270 background : −webkit − l i n e a r − g r a d i e n t (#1 c1c1c , #1 b1b1b ) ;
+271 background : −o− l i n e a r − g r a d i e n t (#1 c1c1c , #1 b1b1b ) ;
+272 f i l t e r : p r o g i d : DXImageTransform . M i c r o s o f t . g r a d i e n t ( s t a r t C o l o r s t r = ’ #1 c1c1c ’ , e n d C o l o r s t r
+= ’ #1 b1b1b ’ ) ;
+273 −ms− f i l t e r : ” p r o g i d : DXImageTransform . M i c r o s o f t . g r a d i e n t ( s t a r t C o l o r s t r = ’#1 c1c1c ’ ,
+e n d C o l o r s t r = ’#1 b1b1b ’ ) ” ;
+43
+274 background : l i n e a r − g r a d i e n t (#1 c1c1c , #1 b1b1b ) ;
+275 border − bottom : 2px s o l i d #222222;
+276 border − t o p : 2px s o l i d #1B1B1B ;
+277 }
+278 . menu l i : hover > a {
+279 border − r a d i u s : 5px 0 0 0 ;
+280 border − l e f t : 3px s o l i d #C4302B ;
+281 c o l o r : #C4302B ;
+282 }
+283 . submenu {
+284 l e f t : 0 ;
+285 max− h e i g h t : 0 ;
+286 p o s i t i o n : a b s o l u t e ;
+287 t o p : 100%;
+288 z− i n d e x : 0 ;
+289 −webkit − p e r s p e c t i v e : 400 px ;
+290 −moz− p e r s p e c t i v e : 400 px ;
+291 −ms− p e r s p e c t i v e : 400 px ;
+292 −o− p e r s p e c t i v e : 400 px ;
+293 p e r s p e c t i v e : 400 px ;
+294 }
+295 . submenu l i {
+296 o p a c i t y : 0 ;
+297 −webkit − t r a n s f o r m : r o t a t e Y (90 deg ) ;
+298 −moz− t r a n s f o r m : r o t a t e Y (90 deg ) ;
+299 −ms− t r a n s f o r m : r o t a t e Y (90 deg ) ;
+300 −o− t r a n s f o r m : r o t a t e Y (90 deg ) ;
